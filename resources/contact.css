@@ -7,7 +7,7 @@
 body{
     background-color: #efefef;
     font-family: sans-serif;
-    background-image: url(/img/contact.jpg);
+    background-image: url("https://tauqir123.github.io/Payment-Gateway/img/contact.jpg");
     height: 100vh;
             background-size: cover;
             background-position: center;

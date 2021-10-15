@@ -114,3 +114,19 @@
       .copyright-1{
           margin-left: 150px;
       }
+
+
+
+    @media only screen and (max-width: 600px) {
+
+    .nav{
+         margin-top:-45px;
+        }
+     .logo{
+         
+         width:50px;
+         font-size:15px;
+         
+
+
+}

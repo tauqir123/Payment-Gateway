@@ -19,6 +19,14 @@
            font-weight: 600;
        }
     
+
+.hero-text-box{
+    
+    height:200px;
+    width:50%;
+}
+
+    
        h2{
        font-weight: 200;    
        font-family: italic;
@@ -122,11 +130,14 @@
     .nav{
          margin-top:-45px;
         }
+        
      .logo{
-         
-         width:50px;
          font-size:15px;
         }
-
+      
+      .container{
+        margin-left:25px;
+        
+        }   
 
 }

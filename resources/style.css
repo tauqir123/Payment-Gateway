@@ -119,7 +119,7 @@
 
 
 
-    @media only screen and (max-width: 450px) {
+    @media only screen and (max-width: 600px) {
 
     .nav{
          margin-top:-45px;
@@ -127,6 +127,7 @@
         
      .logo{
          font-size:15px;
+         width:50%;
         }
       
       .container{
